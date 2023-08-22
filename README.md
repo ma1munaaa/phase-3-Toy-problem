@@ -25,7 +25,7 @@ This Python function checks whether exactly two out of three input numbers are p
 
 ## Usage
 
-1. Open the `positive_checker.py` file.
+1. Open the `two_positive_numbers.py` file.
 2. Modify the values of `a`, `b`, and `c` with the numbers you want to check.
 3. Run the script.
 
@@ -37,7 +37,7 @@ This Python function calculates the highest value of consonant substrings in a g
 
 ## Usage
 
-1. Open the `consonant_value_calculator.py` file.
+1. Open the `consonant_time.py` file.
 2. Modify the value of `k` with the lowercase string you want to analyze.
 3. Run the script.
 
